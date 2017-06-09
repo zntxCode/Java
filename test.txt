@@ -1,5 +1,5 @@
 username:zntxCode
-killswitch:false
-dl:null
-version:0.1.6.32
-autoUpdate:false
+ killswitch:false
+ dl:null
+ version:0.1.6.32
+ autoUpdate:false
